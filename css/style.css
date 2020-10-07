@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    font-size: 15px;
+    color: #707070;
+}
+
+.inner{
+    width: 90%;
+    margin: 0 auto;
+}
+
+header{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+header li{
+    padding: 20px;
+}
+
+header li:hover{
+    color: #FFBF9D;
+}
